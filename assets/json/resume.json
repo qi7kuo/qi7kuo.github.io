@@ -1,10 +1,7 @@
 {
   "basics": {
     "name": "Zisheng Meng",
-    "label": "PhD",
-    "image": "",
     "email": "qi7kuo@gmail.com",
-    "phone": "(86) 14717979747",
     "url": "https://qi7kuo.github.io/",
     "summary": "ML System Learner"
   },
@@ -20,7 +17,7 @@
     {
       "institution": "Tsinghua University",
       "area": "Department of Computer Science and Technology",
-      "studyType": "Bachel",
+      "studyType": "Bachelor",
       "startDate": "2020-09",
       "endDate": "2024-06",
       "score": "3.85/4.0"
@@ -28,7 +25,7 @@
     {
       "institution": "the University of Hong Kong",
       "area": "Department of Computer Science",
-      "studyType": "PhD",
+      "studyType": "Ph.D.",
       "startDate": "2025-01"
     }
   ],
@@ -46,32 +43,5 @@
       "date": "2025-01"
     }
   ],
-  "publications": [],
-  "skills": [
-    {
-      "name": "AI Stack",
-      "level": "Learner",
-      "icon": "",
-      "keywords": [
-        "Deep Learning Framework: Pytorch",
-        "High Performance Language: Triton, CUDA",
-        "Distributed Training Framework: Megatron-LM",
-        "Distributed Inference Framework: vLLM, SGLang",
-        "Deep Learning Theory",
-        "Classic Machine Learning Theory"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Chinese",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ]
+  "publications": []
 }
