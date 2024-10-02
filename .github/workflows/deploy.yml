@@ -23,7 +23,6 @@ on:
       - "!.github/workflows/lighthouse-badger.yml"
       - "!.github/workflows/prettier.yml"
       - "!lighthouse_results/**"
-      - "!CONTRIBUTING.md"
   pull_request:
     branches:
       - master
@@ -46,7 +45,6 @@ on:
       - "!.github/workflows/lighthouse-badger.yml"
       - "!.github/workflows/prettier.yml"
       - "!lighthouse_results/**"
-      - "!CONTRIBUTING.md"
   workflow_dispatch:
 
 permissions:
